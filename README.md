@@ -13,11 +13,11 @@ This repository contains a production-ready, interactive data analytics dashboar
    - Votes Distribution: Trend lines highlighting user engagement vectors.Performance Optimized: Leverages Streamlit’s @st.cache_data engine for instantaneous data load operations.
 
 
-🛠️ Tech Stack\
-• Core Framework: Streamlit\
-• Data Processing: Pandas / OpenPyXL\
-• Data Visualization: Plotly Express / Plotly Graph Objects\
-• Styling: Custom HTML5 & CSS3 injection
+🛠️ Tech Stack
+  - Core Framework: Streamlit
+  - Data Processing: Pandas / OpenPyXL
+  - Data Visualization: Plotly Express / Plotly Graph Objects
+  - Styling: Custom HTML5 & CSS3 injection
 
 
 📈 Dashboard Layout Architecture\
