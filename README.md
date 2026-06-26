@@ -5,8 +5,8 @@ This repository contains a production-ready, interactive data analytics dashboar
 🔥 Key Features\
 • PowerBI Dark Aesthetic: Custom CSS styling featuring an ultra-modern navy/cyan interface with responsive container design.\
 • Instant Global Filtering: Dynamic sidebar/top-bar controls to filter the entire dataset by online delivery availability and table booking status.\
-• Operational KPI Metrics: High-level real-time tracking for Total Votes, Average Cost for Two, Average Aggregate Rating, and Total Records.\
-• Advanced Plotly Visualizations:\
+• Operational KPI Metrics: High-level real-time tracking for Total Votes, Average Cost for Two, Average Aggregate Rating, and Total Records.<br\>
+• Advanced Plotly Visualizations:<br\>
    • Top Cuisines: Horizontal representation of market dominance.\
    • Rating Mix & Booking Splits: Interactive donut charts for clear categorical distribution.\
    • Cost Trends: Vertical analysis mapping customer cost profiles against final ratings.\
