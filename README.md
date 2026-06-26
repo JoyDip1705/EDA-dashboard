@@ -2,9 +2,9 @@
 This repository contains a production-ready, interactive data analytics dashboard built with Streamlit and Plotly. The application features a sleek, customized dark theme inspired by PowerBI, delivering actionable operational insights from restaurant performance and customer feedback data.
 
 
-🔥 Key Features
-        • PowerBI Dark Aesthetic: Custom CSS styling featuring an ultra-modern navy/cyan interface with responsive container design.
-        • Instant Global Filtering: Dynamic sidebar/top-bar controls to filter the entire dataset by online delivery availability and table booking status.
+🔥 Key Features\
+• PowerBI Dark Aesthetic: Custom CSS styling featuring an ultra-modern navy/cyan interface with responsive container design.\
+• Instant Global Filtering: Dynamic sidebar/top-bar controls to filter the entire dataset by online delivery availability and table booking status.\
 • Operational KPI Metrics: High-level real-time tracking for Total Votes, Average Cost for Two, Average Aggregate Rating, and Total Records.
 • Advanced Plotly Visualizations:
    • Top Cuisines: Horizontal representation of market dominance.
